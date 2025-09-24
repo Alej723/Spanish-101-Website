@@ -33,13 +33,22 @@ h3{
 hr{
     color: #CF3C52;
 }
-table,th,td{
+table,td{
 
       border:2px solid #CF3C52;
+      font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+      font-size: 20px;
 }
 
 th{
-    font-size: 20px;
     color: #CF3C52;
+    border:2px solid #CF3C52;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 25px;
+
+}
+
+td{
+text-align: center;
 }
 
