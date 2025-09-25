@@ -1,0 +1,16 @@
+body{
+    background-color: aqua;
+}
+.flashcard{
+    display: flex;
+    justify-content: center;
+    background-color: blue;
+    width: 70%;
+    height: 700px;
+    align-items: flex-end;
+    
+}
+.center{
+    display: flex;
+    justify-content: center;
+}
